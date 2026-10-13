@@ -79,6 +79,11 @@
       "status": "BUILT",
       "photographer": "Atilio Orellana",
       "heroImage": "/images/arquitectura/buffalo/buffalo-6.webp",
+      "homeImages": [
+        "/images/arquitectura/buffalo/buffalo-6.webp",
+        "/images/arquitectura/buffalo/buffalo-1.webp",
+        "/images/arquitectura/buffalo/buffalo-4.webp"
+      ],
       "gallery": [
         "/images/arquitectura/buffalo/buffalo-6.webp",
         "/images/arquitectura/buffalo/buffalo-3.webp",
